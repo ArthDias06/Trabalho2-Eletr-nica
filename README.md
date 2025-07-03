@@ -3,7 +3,7 @@ Trabalho para a montagem de um projeto recriando o jogo Genius com a utilizaçã
 # Link para o vídeo do projeto:
 https://youtu.be/Ee59bohTTSc
 
-#Imagens do projeto
+# Imagens do projeto
 ![ImagemProjeto](https://github.com/user-attachments/assets/0897f5d2-4d22-44ff-8632-df9daffbef1a)
 
 
