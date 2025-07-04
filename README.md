@@ -10,7 +10,7 @@ https://youtu.be/Ee59bohTTSc
 ![ImagemProtoboard](https://github.com/user-attachments/assets/079e1e95-c4af-4cfb-a5e4-092a731a7022)
 
 
-![ImagemArduino](https://github.com/user-attachments/assets/30943611-6c33-4325-a600-2e2328fc0eb7)
+![ImagemProtoboard-depois](https://github.com/user-attachments/assets/28cffe4c-2ae6-4416-8ac2-6dfb64689bfb)
 
 
-![ImagemProjtoboardCima](https://github.com/user-attachments/assets/4fe1a596-26e5-45c5-85c3-e54828ae6389)
+![ImagemProtoboardCima-depois](https://github.com/user-attachments/assets/8c9a63c1-3681-4d4b-803d-509a31bd46c8)
